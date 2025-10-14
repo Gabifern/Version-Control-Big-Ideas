@@ -8,6 +8,7 @@ while(True):
     # Attempts to take age input and convert to int
     try:
       age = int(age)
+      print("Hello", name, "!")
       print(name, "was born in", currentYear - age);
       break
     except:
