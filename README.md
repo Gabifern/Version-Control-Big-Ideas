@@ -7,4 +7,4 @@ Gabi Fernandes, Thomas Harrison, Tredon Stevenson
 
 
 What Our Program Does:
-First the program prompts user to enter their name. The program then asks for a second input (age). The program then greets the user and uses the second output to give the user an age.
+First the program prompts user to enter their name. The program then asks for a second input (age). The program then greets the user and calculates their birth year based on the age they input.
